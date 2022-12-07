@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;700&amp;family=Varela+Round&amp;display=swap" rel="stylesheet" />
+    <link rel="icon" href="images/favicon_Infolango-lilas-laranja.png" />
+    <meta charSet="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <title>InfoLango  | Recargas TVExpress, My Family Cinema, Blue TV e RedPlay</title>
+    <meta name="title" content="InfoLango  | Recargas TVExpress, My Family Cinema, Blue TV e RedPlay" />
+    <meta name="description" content="Venda de Recargas Recargas TVExpress, My Family Cinema, Blue TV e RedPlay, oferecemos valores justos. Compre com quem você pode confiar." />
+    <meta name="keywords" content="blue tv, redplay, tvexpress, my family cinema, recarga bluetv, recarga blue tv, recarga redplay, recarga tvexpress, recarga my family cinema" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:url" content="https://infolango.com/recargas" />
+    <meta property="og:title" content="InfoLango  | Recargas TVExpress, My Family Cinema, Blue TV e RedPlay" />
+    <meta property="og:site_name" content="InfoLango Recargas" />
+    <meta property="og:description" content="Recargas TVExpress, My Family Cinema, Blue TV e RedPlay, oferecemos valores justos. Compre com quem você pode confiar." />
+    <meta property="og:image" content="images/Expess-Family-Blue-Red-fundo escuro2.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="images/Expess-Family-Blue-Red-fundo escuro2.jpg">
+
+	<meta name="next-head-count" content="12" />
+    <noscript data-n-css=""></noscript>
+    <link rel="preload" href="/js/main.js" as="script" />
+    <link rel="preload" href="/js/webpack.js" as="script" />
+    <link rel="preload" href="/js/framework.js" as="script" />
+    <link rel="preload" href="/js/commons.js" as="script" />
+    <link rel="preload" href="/js/7124.js" as="script" />
+    <link rel="preload" href="/js/app-02.js" as="script" />
+    <link rel="preload" href="/js/index.js" as="script" />
+	<link rel="stylesheet" href="https://infolango.com/recargas/css/style.css">
+</head>
+<body>
+    <div id="">
+	        <header class="styles__HeaderContainer-sc-51iggk-0 cgMmaG">
+		    <a title="Compre agora" href="#planos" class="styles__Logo-sc-51iggk-2 dPciXP" ><br><img src="images/Logo.png" alt="logo" style="width:120%"></a>
+            <div class="styles__Content-sc-51iggk-1 jLbESe"></div>
+            <div class="styles__MenuButton-sc-51iggk-8 jILCMz">
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__MenuIcon-sc-51iggk-9 dRiOEh">
+                    <path d="M12 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zM6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path>
+                </svg>
+            </div>
+        </header>
+
+        <section id="inicio" class="styles__Container-sc-8njmxr-0 kdvfxQ">
+            <div class="styles__Grid-sc-8njmxr-1 jIjbii">
+                <div class="styles__Content-sc-8njmxr-3 qSiWR">
+				
+                    <h1 class="styles__MainTitle-sc-8njmxr-4 jLjWLQ">InfoLango Recargas é uma<br/>revenda de Confiança</h1>
+                    <p color="var(--white)" class="text-tags__Paragraph-sc-1f0yu1t-0 dJeaxQ">Envio de códigos por WhatsApp!</p>
+					<a title="Compre agora" href="#planos" class="styles__OutlinedButtonTag-sc-15xvzkm-0 dQABUW">Compre agora</a>
+                </div>
+                <video preload="auto" autoplay="" loop="" muted="" class="styles__Video-sc-8njmxr-2 cGHlSY">
+                    <source src="videos/Banner-Marvel.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </section>
+		
+         <div class="styles__TitleContainer-ioobxk-0 jMWxLK">
+            <div class="styles__TitleContent-ioobxk-1 fPmkDt">
+			<a title="Teste Gratuitamente por 7 dias" href="#downloads"><img style="max-width:70%" alt="Expess-Family-Blue-Red" src="images/Expess-Family-Blue-Red-fundo escuro2.jpg" /></a>
+			  <p color="var(--lightGrey)" class="text-tags__Paragraph-sc-1f0yu1t-0 gsmvxk">Ainda não tem nenhum desses apps, clique no botão abaixo
+               <br/>faça o download e teste grátis por 7 dias </p>
+				<a title="Baixe Agora" href="#downloads" class="styles__OutlinedButtonTag-sc-15xvzkm-0 dQABUW">Baixe agora</a><br><br>
+                <h2 class="styles__Title-ioobxk-2 gjEPOn">Confira nossos valores</h2>
+                <p color="var(--lightGrey)" class="text-tags__Paragraph-sc-1f0yu1t-0 gsmvxk">Aqui você encontra um preço justo, que cabe no seu orçamento.
+                    <br/>Escolha o plano que mais se adequa ao seu bolso e estilo de vida:</p>
+         			 <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__DotsIcon-sc-1wu8y8r-11 lohSnX">
+                    <path d="M12 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zM6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path>
+                </svg><br>
+				
+            </div>
+        </div>
+		   <br> 
+		   <h4 class="styles__Title-sc-1wu8y8r-3 bEMdLn">Nossos Planos</h4>
+         <section id="planos" class="styles__CardsContainer-ioobxk-5 fecntU">
+               <div class="styles__CardsContainerGrid-ioobxk-6 jpwDhL">
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/tvexpress.png" />
+                                    </div></center><img title="TV Express(30 dias)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75"srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>   							
+		                    <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">TV Express (30 dias)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 21,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economize comprando<br>90 dias ou mais)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação mensal</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;TV Express (30 dias)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+				
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                 <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/tvexpress2.png" />
+                                    </div></center><img title="TV Express(3 meses)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">TV Express (3 meses)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 57,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 7,98)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação trimestral</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;TV Express (3 meses)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+								
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/tvexpress3.png" />
+                                    </div></center><img title="TV Express (1 ano)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">TV Express (1 ano)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 169,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 93,89)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação anual</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;TV Express (1 ano)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+            </div>    
+
+            <div class="styles__CardsContainerGrid-ioobxk-6 jpwDhL">
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/myfamily.png" />
+                                    </div></center><img title="My Family (30 dias)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>    
+		                    <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">My Family Cinema (30 dias)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 15,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economize comprando<br>90 dias ou mais)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação mensal</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;My Family Cinema (30 dias)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+				
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                 <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/myfamily2.png" />
+                                    </div></center><img title="My Family (3 meses)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">My Family Cinema (3 meses)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 44,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 2,98)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação trimestral</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;My Family Cinema (3 meses)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+								
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/myfamily3.png" />
+                                    </div></center><img title="My Family (1 ano)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">My Family Cinema (1 ano)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 149,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 41,89)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação anual</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;My Family Cinema (1 ano)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+            </div>
+			
+            <div class="styles__CardsContainerGrid-ioobxk-6 jpwDhL">
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/bluetv.png" />
+                                    </div></center><img title="Blue TV (30 dias)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>    
+		                    <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">Blue TV (30 dias)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 21,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economize comprando<br>90 dias ou mais)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação mensal</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;Blue TV (30 dias)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+				
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                 <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/bluetv2.png" />
+                                    </div></center><img title="Blue TV (3 meses)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">Blue TV (3 meses)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 57,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 7,98)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação trimestral</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;Blue TV (3 meses)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+								
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/bluetv3.png" />
+                                    </div></center><img title="Blue TV (1 ano)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">Blue TV (1 ano)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 156,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 106,89)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação anual</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;Blue TV (1 ano)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+            </div> 			
+
+            <div class="styles__CardsContainerGrid-ioobxk-6 jpwDhL">
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/redplay.png" />
+                                    </div></center><img title="Red Play (30 dias)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F30-624fa72c159ed84f14b094bf7439bd38.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>    
+		                    <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">Red Play (30 dias)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 22,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economize comprando<br>90 dias ou mais)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação mensal</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;Red Play (30 dias)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+				
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                 <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/redplay2.png" />
+                                    </div></center><img title="Red Play (3 meses)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F90-66ef10027a5144a3fabe8244908b80c9.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">Red Play (3 meses)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 58,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 9,98)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação trimestral</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;Red Play (3 meses)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+								
+                <article class="styles__CardWrapper-ioobxk-7 ngKqF">
+                    <div class="styles__Card-ioobxk-8 hvQznV">
+                        <div class="styles__CardHeader-ioobxk-9 jjQtFb">
+                            <figure class="styles__CardImage-ioobxk-10 daftdn">
+                                <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                    <center><div style="box-sizing:border-box;display:block;max-width:80%"><img style="max-width:80%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="images/redplay3.png" />
+                                    </div></center><img title="Red Play (1 ano)" src="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75" srcSet="/_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fimages%2F365-575df986221b11bda433d54fdfa1db35.png&amp;w=384&amp;q=75 2x" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                                </div>
+                            </figure>
+                            <div class="styles__CardInfo-ioobxk-11 jkTGMD">
+                                <h3 class="styles__CardTitle-ioobxk-12 cZYIre">Red Play (1 ano)</h3>
+                                <h4 class="styles__CardValue-ioobxk-13 HwXFw">R$ 179,99</h4>
+								<h3 class="styles__CardTitle-ioobxk-12 cZYIre">(Economia de R$ 95,89)</h3>
+                            </div>
+                        </div>
+                        <ul class="styles__CardFeatures-ioobxk-14 bMyJBT">
+                            <li class="styles__CardFeaturesItem-ioobxk-15 jmrxyD">Renovação anual</li>
+                        </ul><a title="Comprar agora" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Gostaria%20de comprar o produto &#x27;Red Play (1 ano)&#x27;" class="styles__OutlinedButtonTag-sc-15xvzkm-0 cjPsRa">Comprar agora</a>
+                    </div>
+                </article>
+            </div> 
+
+      <div id="card-0" class="styles__CardsAnchor-ioobxk-17 iySDCx"></div>
+    </section>
+        <section class="styles__Container-zmt7lb-0 bevLGQ">
+            <div id="suporte" class="styles__Anchor-zmt7lb-1 hYAQuv"></div>
+            <div class="">
+                <div class="styles__Text-zmt7lb-3 fuTSHV">
+                 <center>     
+				    <p color="var(--white)" class="text-tags__Paragraph-sc-1f0yu1t-0 dJeaxQ">Ficou com alguma dúvida sobre as recargas?</p>
+                    <p color="var(--white)" class="text-tags__Paragraph-sc-1f0yu1t-0 dJeaxQ">Não se preocupe, estamos aqui para te ajudar, é só clicar no botão abaixo e entrar em contato conosco via WhatsApp.</p>					
+					<a title="Entrar em Contato por WhatsApp" target="_blank" color="green" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Estou%20com dúvidas sobre as recargas, poderia me ajudar?" class="styles__OutlinedButtonTag-sc-15xvzkm-0 kFhhAQ">Entrar em Contato</a>
+				<p color="var(--white)" class="text-tags__Paragraph-sc-1f0yu1t-0 dJeaxQ">Já tirou suas dúvidas, volte aos nossos planos e escolha o que te agradar, clicando abaixo.</p>
+				<a title="Voltar aos Planos" href="#planos"  color="var(--white)" class="styles__OutlinedButtonTag-sc-15xvzkm-0 kFhhAQ"> Planos ▲ </a>
+				</center>  
+                </div>
+
+            </div>
+        </section>
+
+        <div class="styles__Container-sc-1wu8y8r-0 lcLmvH">
+            <div class="styles__Content-sc-1wu8y8r-2 lJZIr">
+             <h2 id="downloads" class="styles__Title-sc-1wu8y8r-3 bEMdLn">Downloads</h2>
+                <div class="styles__List-sc-1wu8y8r-4 iqqKva">
+                    <article class="styles__Item-sc-1wu8y8r-5 kyQsIk">
+                        <figure class="styles__AppCover-sc-1wu8y8r-6 jaGcqi purple">
+                            <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                <div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" />
+                                </div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAYCAYAAABHqosDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODU0MzQ3QkZBNjJGMTFFQjkxODNDRUNCOTNFOUU5Q0EiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODU0MzQ3QkVBNjJGMTFFQjkxODNDRUNCOTNFOUU5Q0EiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RjIzNzA2MDZBNjBBMTFFQkE0MzRBQkJFRTQxMzE3NzQiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RjIzNzA2MDdBNjBBMTFFQkE0MzRBQkJFRTQxMzE3NzQiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5XcezCAAADxElEQVR42uzZaYhNYRzH8TuLsa9Zh+zJmux7hNK8ILtGdiF7drIMI7JMEuLF2ClL1iwJyZ49hWwvLCHJ2AYjw1zff/1unk7nmvHCyFxPfZp7nuecc8/9n/+znDNRwWAw8BtlP65hUSCPl6jfCMwmDNHnYdqO+MBsxmBPnQVpSyQHZjXGhWnrh92RGJj1GJ7NOSyTtkZSYFZgUg7P0x0H81RkLDA+Vgb9yxRsQpan/hsGIy7M+f45fhmzDNN8YjgfC1AaLxHjaf+A6kjz1FfFIGRoHytFkc/uC/JjH245xySgFQ6gEFrjG+JQGI+xUcfnSsYsC5Mps9VeDCd92t+iA6J8ot8nmH056uxfy6nvhHM++9//0xnjbiSHueilai+IMz7t79HuF19SHu3R3TmmL2pjlLY/oLj2T1FdKqLxRNv9UBo1FLxcCcziMEGZo/ZSuODTnoYWOfyyeB2TjqJO/V0nOwIKkpVq2g4F5jA2YBcqoRz6a582Crx9RxckoYHa6qAHOmp7IRL0uYwSIlHbDbECjWPpTasw3qeXzcIS2D6n0NDT/hm9cDmHvba6/mZo3EjX9g6NXdaepfHHxpZHKKHvt1ITFTQmhca3hWiKbpiqZYOd5zoS0V+PMdFI0kL1K5aiLAbazIySiMdonMXEgGYZvzJfUYxRFN3yDm1/kR1x6gZuXYKOfaoMDNXXU/0DsRmvvtosMzIlXnU2juXX5xlOthXAFzRS22uMx2N120Tta1l2Q5kyEXv1WxrjOtbYOexuDNXdH+O5w0m6W3MwGe81M1nEe+M8aiBFdzZNs47dgS+YqWNCpaL+lnWywModXEJLbe/EbZ99z+k6K2OlHkf6qK2cZr8oXZPNai80i73GPa3e7RqLaVa9iO+oi9MYgSl6Bmwd+tKxSmPv0n+2TjRB6V5GP+KkLuSMfvArBcVS9iOm669bnmEvnusHumW50trqk536T5rK7WYUUZBsqj6uJcUJ3Zhuas/Qb7Bu1xUddQMD6j52rSOxTcHarm40V107RUFL9XaBdWG6VbJnP+sKN9Vmg/IRTavH0CyXFmHlPV33EK5pSVHImUndLh3tDOqh9gbOdlVU8U7XIalhgrNI7UVwW3U2Y1zFQ9xD57+4Wm2uWeWPrXwDWlUO9amfgSboi0y8UXpn6mHyeCQ8RGb3ZJ2uoNi40hNHI+m1wy5lh7dkagaIzZNP1jkITIwWRQOcuixlyXfNJDsi+dXmHq1y3TJcY1FEv/ON1SvMHs66Z+3/l+E/u9URXMG8vP7vkx8CDABwRPfAD0i4nAAAAABJRU5ErkJggg==" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                            </div>
+                        </figure>
+                        <h3 class="styles__AppName-sc-1wu8y8r-7 coKngB">TVExpress</h3>
+                        <a href="https://drive.google.com/file/d/1_AORGzEnnUsrB_LXOWhLJ0Ygu-V6k9y9/view?usp=sharing" target="_blank" title="App Android" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__AndroidIcon-sc-1wu8y8r-8 fggVcc">
+                                <path fill="none" d="M0 0h24v24H0V0z"></path>
+                                <path d="M6 18c0 .55.45 1 1 1h1v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h2v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h1c.55 0 1-.45 1-1V8H6v10zM3.5 8C2.67 8 2 8.67 2 9.5v7c0 .83.67 1.5 1.5 1.5S5 17.33 5 16.5v-7C5 8.67 4.33 8 3.5 8zm17 0c-.83 0-1.5.67-1.5 1.5v7c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5v-7c0-.83-.67-1.5-1.5-1.5zm-4.97-5.84l1.3-1.3c.2-.2.2-.51 0-.71s-.51-.2-.71 0l-1.48 1.48A5.84 5.84 0 0012 1c-.96 0-1.86.23-2.66.63L7.85.15c-.2-.2-.51-.2-.71 0-.2.2-.2.51 0 .71l1.31 1.31A5.983 5.983 0 006 7h12c0-1.99-.97-3.75-2.47-4.84zM10 5H9V4h1v1zm5 0h-1V4h1v1z"></path>
+                            </svg>App Android</a>
+                        <a href="https://drive.google.com/file/d/1vuCRGJlN30JbAhPxLtju1iyU5d5U90tP/view?usp=sharing" target="_blank" title="App Box TV" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__TvIcon-sc-1wu8y8r-9 ccOxaY">
+                                <g data-name="Layer 2">
+                                    <path d="M18 6h-3.59l2.3-2.29a1 1 0 10-1.42-1.42L12 5.59l-3.29-3.3a1 1 0 10-1.42 1.42L9.59 6H6a3 3 0 00-3 3v10a3 3 0 003 3h12a3 3 0 003-3V9a3 3 0 00-3-3zm1 13a1 1 0 01-1 1H6a1 1 0 01-1-1V9a1 1 0 011-1h12a1 1 0 011 1z" data-name="tv"></path>
+                                </g>
+                            </svg>App Box TV</a>
+                    </article>
+                    <article class="styles__Item-sc-1wu8y8r-5 kyQsIk">
+                        <figure class="styles__AppCover-sc-1wu8y8r-6 jaGcqi orange">
+                            <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                <div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTIiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" />
+                                </div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAYCAYAAAC1Ft6mAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QjFGQkVGQUFBNjJGMTFFQjgzM0RCNDFFRDkxMzIxQTIiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QjFGQkVGQTlBNjJGMTFFQjgzM0RCNDFFRDkxMzIxQTIiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RkE3MzFGRThBNjBBMTFFQkFGRDY5RjcwNTJDRTFBM0YiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RkE3MzFGRTlBNjBBMTFFQkFGRDY5RjcwNTJDRTFBM0YiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4alcJGAAADW0lEQVR42syYWUhVQRjHtQWiUjLFClteWog0ygzaQVtuBEXhg7S81CWhXtqzIh/0JeglsoiKokQoMCuKHkI0KpLU9k0hW0BaLC3Ma5Ytnv4T/0tf08w5N9F7/eCH95zzPzPfN2fm+2aMchwnKoKkgqOgCmR6aPuBFeASKAdTTLpIBpMPvjp/7IiLNgOUOn/bgp4S0FiDc5/BDIt+h/OvHQPRPSGgZeCtwcECg3YUOG/QPgeDbH2EM5h14JvBQRVgkmFt1Tlmy3LrJ1zB5Dl2W6tp54GPfPZd057w6qu7A+kNDgvnfmgOlmr6ldSoZPEItAntSxAXyYAGgLN05gWoBT+Fg1/AeKHfwPvN4Ayo14JfGkq/3RWMWrSX6Ug1KASfNAd3Cn0O7zUyQdRq2uJQ++6OYBIZhLIrYAt4pzn4AMRSv4336pmiH2vaVqb6iAQ0XDhUBhYzzUprB7Op38576ov4xUDYvmRYAxoB7tKJc2AMuGlw8IAWzDOwRExRaXdArxD779uVAQ0Wo1vBe4UGB+v4LJvX70EaKLKkdF8IfSeD02x7ZFcEo1LpLeGwut5jcXAaWMjfLSAF7LJovRLBRHBI6NWAJpmEM8FGsBXM9Wg0AVSKOpHIUTXZQTCLi1xZOouoyZrAaI+NbYDae2BVcGpK0ThuzQNardhsaXQgF35w6qTwfrPBQVUkl4vakk3tK0tAtkTgEwPYAXL1fV3wxzB2arISS9G8wOeqqs/n/ZOG99s5fR7yOp/aAkt/NaC/1l882Cs018FkW5brA04ZGn7Cij1Be0ltJK9R0ybOJVMtm88AC6YcHDVVX1sC0g96amreF4OT65W2k7UtiVoLq8EQwwvqlPhUzPMM8Wy/426VYuQzLZqLWoGWX/EGB82zDqWJl8osZw11mFojFrTam03XNCUuwbzRqr3foFG7iRg+z9LWV5545hlQnKjuxYZilSo2mcquWrYi+1wC0jeWcywHN5XSj4t7VcyE/71TSBdnkNtgN+dquWi8AWzimjM1lqL9jyBofou+yGUA1O5hfWfqoryYxLNLo9Z4NQMMZYPoEwtY/V3koo3lV61hqm9i9sph1u1Uof/9jwbNhoIEEA1awQfQEhW6xbONBr7rZYkgBnSARvbZafslwADaZpQ3xJc24wAAAABJRU5ErkJggg==" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                            </div>
+                        </figure>
+                        <h3 class="styles__AppName-sc-1wu8y8r-7 coKngB">My Family Cinema</h3>
+                        <a href="https://drive.google.com/file/d/1frhkiW4AkoKpe4fFGcWlLqhBVwDgT1-W/view?usp=sharing" target="_blank" title="App Android" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__AndroidIcon-sc-1wu8y8r-8 fggVcc">
+                                <path fill="none" d="M0 0h24v24H0V0z"></path>
+                                <path d="M6 18c0 .55.45 1 1 1h1v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h2v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h1c.55 0 1-.45 1-1V8H6v10zM3.5 8C2.67 8 2 8.67 2 9.5v7c0 .83.67 1.5 1.5 1.5S5 17.33 5 16.5v-7C5 8.67 4.33 8 3.5 8zm17 0c-.83 0-1.5.67-1.5 1.5v7c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5v-7c0-.83-.67-1.5-1.5-1.5zm-4.97-5.84l1.3-1.3c.2-.2.2-.51 0-.71s-.51-.2-.71 0l-1.48 1.48A5.84 5.84 0 0012 1c-.96 0-1.86.23-2.66.63L7.85.15c-.2-.2-.51-.2-.71 0-.2.2-.2.51 0 .71l1.31 1.31A5.983 5.983 0 006 7h12c0-1.99-.97-3.75-2.47-4.84zM10 5H9V4h1v1zm5 0h-1V4h1v1z"></path>
+                            </svg>App Android</a>
+                        <a href="https://drive.google.com/file/d/1L-cSRPLZQLasCqENYMG02JpVxBvAzeEq/view?usp=sharing " target="_blank" title="App Box TV" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__TvIcon-sc-1wu8y8r-9 ccOxaY">
+                                <g data-name="Layer 2">
+                                    <path d="M18 6h-3.59l2.3-2.29a1 1 0 10-1.42-1.42L12 5.59l-3.29-3.3a1 1 0 10-1.42 1.42L9.59 6H6a3 3 0 00-3 3v10a3 3 0 003 3h12a3 3 0 003-3V9a3 3 0 00-3-3zm1 13a1 1 0 01-1 1H6a1 1 0 01-1-1V9a1 1 0 011-1h12a1 1 0 011 1z" data-name="tv"></path>
+                                </g>
+                            </svg>App Box TV</a>
+                    </article>
+					
+					   <article class="styles__Item-sc-1wu8y8r-5 kyQsIk">
+                        <figure class="styles__AppCover-sc-1wu8y8r-6 jaGcqi blue">
+                            <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                <div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" />
+                                </div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAaCAYAAAAKYioIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTVENjQ2NzRBNjJFMTFFQkJDQzJCMEM2MDYzNjY1REMiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTVENjQ2NzNBNjJFMTFFQkJDQzJCMEM2MDYzNjY1REMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RjdDQzQwMjVBNjBBMTFFQkI1RURGMTczRUQ0NTg0MUUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RjdDQzQwMjZBNjBBMTFFQkI1RURGMTczRUQ0NTg0MUUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7Ifa7nAAAFpUlEQVR42uSZe2xURRTG792Wvikg2BbSkraiQSBpsUEjKBg1AmIkYBV8VBKNmAYxaPsHvpKqCImpRGJCQJqgCY0K1tQYeRgVJT6qgogPsNj6oCi2ikqRtbTbrt/Rb5LDeG/v7tbUxJ7kl52dMzM798ycM2fuOtFotAI0gfuAkwBzwZfgMLg6wTEGgsz/VfAYWADyQWig4zp8IJEOcEmcA7iclJE3B9koyWB79Ew5SCNNHsjYIcdx0p2/JQVkOvFJpurvsJztDJ5EwCNgI9gH2sH54H6wBzwERiUycDLoUj/SncDEdJ/TrBtMaSJZ4DxwDbgVnEOjXQduAIfjGVR2jMuym8CkXKuf6/x38jv4mMaYCzZxkUrALn7GZZj/g4y3XPgrsJQ752dQCBrBlKFkmCXgA/AauBucrXTPgRuVcTaAnKFiGIkleeAisA7sALOV/nWwAvSCGeD2oWKYJ8Ed4GUG/zJQD8pVG/n+LMuV4NyhYJhfQB1YABaBz8Bous0s1W4taAMFPKliNoxYO8xyBgcQhg9g0sOYH7kxzCM1hnaiH8EHT7V0Ue6am5Rx1qo85gvwIsuLgvKbkDVwLlgIngc76a9SfgDkx2kUMW4NeAmU9tNOksKHwRbGAL986yq6zQugge5R4zH252AlyxeA25ROnucPMBFM6nf2SH9bmEqHwTEQiXrLITDHSp3TwS7V5m3Wie5OVb8NpPqk35Wgj+0aQZKlzwEbVRtbOkGV1S8D1FN/AIxnfS5oZf3KoCuBXjmJ7kk+NpzIrXp9wE6J8jNX1Y2jW3lJnnKhbMtFcrn9l6o2PaCDnw5dvZa7x0iYccdhoC1kuZ1uJjI16Erg9WCy/bfz+2X02yTGi0fBftASYKCTqtwJ+nzanVDlUzxWjawCl6rv2+hCzXRtmddiLuqD4H017ybmNQ7zHCObeI2pj9WVjNivH0J0ix7VZo263dqulEbdPap+B7e317atUu1eASmsnw5OKF2N0hlKwVHLZdNjeCMQ1OYfO0bO+jVWnaz0Zt41Klk3HYwEvynX+TdvzA6DbbZK0tZxpV0Gadkp8+imRnqt+eTTjSKsD7G8j+UJ3KXfqz6FxpVctY0bfCbbTV83hilg6t2fYVzLuH0BMUm3TWJM09nrr+BCuodcEs9S+mNgK43XpTJiuSYUg+N8hmyGg2XgHbqbnL4V1OfzdMxMVnGmy4oLXjEjwvZJMSSHIethg3aI7pNmvRsycaiKrxCMfM24U8v7kL0wYeZnozh2N+NdhEFeDDUfXMGjvJy7sT2kkrrRTKf95GJlxE7Vz/XZKZ2qrijgVNKnidm9x1X9ZI77HusPgmoGZpOzyMONUX1aqL+ch4XIE2AmQ0MzcyIx0DTqTaBfL4HmaRW8JJBN9QhGJeAb1W6L0u20gm+GCp4dVvC0x51iBf/VSrfcylVmsn4CcxvTrgC8wXYbwDCP3zGvP2+x6uerXEfymu9AF5gkyhlWUtfKAeQHi8BC8InSn1aJXpplmLes06fR6rdKfhSMBbPAXqU/BcpU32K+vzXSwgcxL7rHgSXgW+v0y7QeXuazm/rllm4M2GOdyuvFuOY4ftxSdnMih6xjWuQpNXCWWi2Rd8EIpZ8GflB6yV6PgE/BSWvcWo+3+8usNrKaHzFFaLYWVAw722O3pPElvchdHvp7rd+40vxL4NDKz0SDpc7aESk0hpH9Hql/OfgxYNwGkN1PntMT0P8nsNin/0g1x2oPfSmvQmZhc7RhHN41KrjtwtZK7KbO676jE7lqn8mV0fBtqm0PDbmin+TPcC3dJGwZpI2LVRrQv467a46PfjXHu9nUuX9Z50wZzltpEROmI+AAcxYvSeGb+W4eeb0+7dL4Fr+EN++jYC/vL7FIFk+PYp4kkj58yNMlSPKY97T4/BMiJ/JY0Mrbt/OnAAMAAzEcCiQgqowAAAAASUVORK5CYII=" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                            </div>
+                        </figure>
+                        <h3 class="styles__AppName-sc-1wu8y8r-7 coKngB">blueTV</h3>
+                        <a href="https://drive.google.com/file/d/1FkIjwH2wAUx376yaM5NLwnuJGTR4ePD9/view?usp=sharing" target="_blank" title="App Android" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__AndroidIcon-sc-1wu8y8r-8 fggVcc">
+                                <path fill="none" d="M0 0h24v24H0V0z"></path>
+                                <path d="M6 18c0 .55.45 1 1 1h1v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h2v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h1c.55 0 1-.45 1-1V8H6v10zM3.5 8C2.67 8 2 8.67 2 9.5v7c0 .83.67 1.5 1.5 1.5S5 17.33 5 16.5v-7C5 8.67 4.33 8 3.5 8zm17 0c-.83 0-1.5.67-1.5 1.5v7c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5v-7c0-.83-.67-1.5-1.5-1.5zm-4.97-5.84l1.3-1.3c.2-.2.2-.51 0-.71s-.51-.2-.71 0l-1.48 1.48A5.84 5.84 0 0012 1c-.96 0-1.86.23-2.66.63L7.85.15c-.2-.2-.51-.2-.71 0-.2.2-.2.51 0 .71l1.31 1.31A5.983 5.983 0 006 7h12c0-1.99-.97-3.75-2.47-4.84zM10 5H9V4h1v1zm5 0h-1V4h1v1z"></path>
+                            </svg>App Android</a>
+                        <a href="https://drive.google.com/file/d/1v6i6CCJgqS1xFXAMFEva6m3QciDQ9ukX/view?usp=sharing" target="_blank" title="App Box TV" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__TvIcon-sc-1wu8y8r-9 ccOxaY">
+                                <g data-name="Layer 2">
+                                    <path d="M18 6h-3.59l2.3-2.29a1 1 0 10-1.42-1.42L12 5.59l-3.29-3.3a1 1 0 10-1.42 1.42L9.59 6H6a3 3 0 00-3 3v10a3 3 0 003 3h12a3 3 0 003-3V9a3 3 0 00-3-3zm1 13a1 1 0 01-1 1H6a1 1 0 01-1-1V9a1 1 0 011-1h12a1 1 0 011 1z" data-name="tv"></path>
+                                </g>
+                            </svg>App Box TV</a>
+                    </article>
+                    <article class="styles__Item-sc-1wu8y8r-5 kyQsIk">
+                        <figure class="styles__AppCover-sc-1wu8y8r-6 jaGcqi red">
+                            <div style="display:inline-block;max-width:100%;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
+                                <div style="box-sizing:border-box;display:block;max-width:100%"><img style="max-width:100%;display:block;margin:0;border:none;padding:0" alt="" aria-hidden="true" role="presentation" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzAiIGhlaWdodD0iMjciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIi8+" />
+                                </div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAbCAYAAADBPvmtAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NDI0QjdGODBBNjJGMTFFQkIwNTY5RDgyMDNDNkFEODQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NDI0QjdGN0ZBNjJGMTFFQkIwNTY5RDgyMDNDNkFEODQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6RjREREJDNjlBNjBBMTFFQjk4QzRCQUU5RTc1NUU5MkMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6RjREREJDNkFBNjBBMTFFQjk4QzRCQUU5RTc1NUU5MkMiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4S7oERAAAFPklEQVR42uSZa2xURRTHu9sFKX0CvmgrUi1YXipYlJjYyKPSDxDRQIqJUA34IAET1Ggx+oWI1hQkwQJpoYiJtk0LKgoCJSFUI0bAUHkJ2lBeQRQVkNeWAuv/kP/AyeTudZddwBsn+fV2zjzvmTPnzNz1h0KhBI8yHZwGq0FBvPv3yR8Ppl5gM0hXslowA+yPxwD+BG+mm6iUH8HD4AUwGuwD80FGzCNcB5MvIL4o290PhoNOYcokPa9k3cGnlJ8CE2KZ9/VQzEGwFyRH2W4lOAnucSh7kAqY6lCWDzawfCsYejXzDsBo+oNUkAg6gMNgTxzN/hS3bLuS9QSZ/F/GPAN28mlSGzhntTNJ/Mib4GuHsi3gUTAGzAPrwQrwGvg5mq20E5wHf3OFJH0LesfJYnaAn0BAyRZznNMc8xz4HRSrOvXgKLgzhrE7gBmhK+l9kBJJW1nJbHAQTAXPgvdAPjXdJw4WI5boIyZ14lPGmgxep7XUgRKWmTaxBAixtndBGp3ydO6IkkgsJghWWRp7ghqut+Sy6neBTBdtJ4Jc0I152ee7uXqmzifsP9NynodBK0gDleAPkGP1fyvoBToqWWfQL4w1pND6xfnngUaO/b2b/5HVuAA6W/r6jKFvpCorAtvpC/aCz0GW1W44/dNucABUgSRw1l4PPlOV7FewmP6nLzhu1U0BH9G/SP+7GKKNBTaARod3qQZbwQC2e4zvdQd3xWqH97hkMWfAOktjGeA4o4nkx1DLh8DboIp5sYRbWKeQshNgEVgB2in7zrKYjynvYY1rLKk/mAv+BFksW88yWfEKzkXSkyyvYL7YOipI+sLBKsTipnEMSe+AdB2uz3Iw3aialV9kXhTQBgbQzMV0J7HOTOCnk/0N3K36maDCptNWylKypyhbpZR3lOOVsqxU1b8ZtHD+SXTS4sybVZ21bDfIZeuLEcxjPVHSOKOYXxiVJBJ9A/axUjUbPgIuMnK00sLEmvazXgNXOERl2QO3cAx9UFvC+rvARrCN+T2gJ+ssBwfoIzZxXnbfk9luIvN1zPcBQ/h/TYQRTN7hB7aZFWDUkDPDCZ4bcvkss6JKE6gBeSw/BIKgxSHa2NeOIMewryLHGI3EB70BPgRHLN9i5uAUnS6qK4KkCjAOPA26KFkkaQcjV/WlCE0LWGmdHEM8a+iziFjL7Uo2mCuVwXwzLSlf1XmFfZVbq2N8THeXFazn1kxRZ5GXVblEve2Uj1XyBnVuqYnizNOXlimpLIH/NFmVllJeyPxQ5mU7LVOOsFWZfgHL27gNmlhHtkpXq38z+RyXiX7JO08OQ+1GtlkDFjIwmPSMavcQ5xDidvo3hYgPm8P6x+jrLp9866zK94Ej9AVGNoTfPoJ0irPBbVa7QYxw7TyDlGtPr5hPn5HlMuEy+rxs9QILVKRrpONvNg6T5LK8NoJT8RRapbHqLjoqpYc5GHXlxP1K5uPWcbsQ+jhAkkudZEYVv0udgHWI09Eo2+pLR7xKvugIl76HqeCxzuHYkODVr3eJVI69QPfyZb8K0y6PZSFGoMIb+dnhWjCQQaMkjO8qsuTd6JfMt5rn/gvfY64Fg/mSLynZ45RVWtvxVZ7TJH0AUiO9XXsxnedTf795ALzFz5ySRvFuVA7WgH5gGjgZyQABjyrGLGhQvccsHiIHgtlgGC+9I3m5jCp5VTEXrJO2WFAyWArG8yQ9CSy52gG8rpgpYBs/KczhLwdV/Bnlr1gG8OrvSr35u1KaktWDUtD6f/5dST5qz+TFV/zHCFAcL6VI+keAAQADt6rpfYTQYwAAAABJRU5ErkJggg==" decoding="async" style="visibility:inherit;position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%" />
+                            </div>
+                        </figure>
+                        <h3 class="styles__AppName-sc-1wu8y8r-7 coKngB">Red Play</h3>
+                        <a href="https://drive.google.com/file/d/1X_ya7B0eu2OJQvFju9P7olpGCw3_UICu/view?usp=sharing" target="_blank" title="App Android" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__AndroidIcon-sc-1wu8y8r-8 fggVcc">
+                                <path fill="none" d="M0 0h24v24H0V0z"></path>
+                                <path d="M6 18c0 .55.45 1 1 1h1v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h2v3.5c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5V19h1c.55 0 1-.45 1-1V8H6v10zM3.5 8C2.67 8 2 8.67 2 9.5v7c0 .83.67 1.5 1.5 1.5S5 17.33 5 16.5v-7C5 8.67 4.33 8 3.5 8zm17 0c-.83 0-1.5.67-1.5 1.5v7c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5v-7c0-.83-.67-1.5-1.5-1.5zm-4.97-5.84l1.3-1.3c.2-.2.2-.51 0-.71s-.51-.2-.71 0l-1.48 1.48A5.84 5.84 0 0012 1c-.96 0-1.86.23-2.66.63L7.85.15c-.2-.2-.51-.2-.71 0-.2.2-.2.51 0 .71l1.31 1.31A5.983 5.983 0 006 7h12c0-1.99-.97-3.75-2.47-4.84zM10 5H9V4h1v1zm5 0h-1V4h1v1z"></path>
+                            </svg>App Android</a>
+                        <a href="https://drive.google.com/file/d/1A65OQjjg-SPnVvw4tSq5rFiIgbb_NIk6/view?usp=sharing" target="_blank" title="App Box TV" class="styles__Button-sc-1wu8y8r-10 jVaAjr">
+                            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__TvIcon-sc-1wu8y8r-9 ccOxaY">
+                                <g data-name="Layer 2">
+                                    <path d="M18 6h-3.59l2.3-2.29a1 1 0 10-1.42-1.42L12 5.59l-3.29-3.3a1 1 0 10-1.42 1.42L9.59 6H6a3 3 0 00-3 3v10a3 3 0 003 3h12a3 3 0 003-3V9a3 3 0 00-3-3zm1 13a1 1 0 01-1 1H6a1 1 0 01-1-1V9a1 1 0 011-1h12a1 1 0 011 1z" data-name="tv"></path>
+                                </g>
+                            </svg>App Box TV</a>
+                    </article>
+					<br><br><br><br>
+                </div>
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="StyledIconBase-ea9ulj-0 jZGNBW styles__DotsIcon-sc-1wu8y8r-11 lohSnX">
+                    <path d="M12 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zM6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path>
+                </svg>
+                <p class="text-tags__Paragraph-sc-1f0yu1t-0 lbLwwM">Está com dúvidas sobre como instalar os aplicativos? Não se preocupe, estamos aqui para te ajudar, é só clicar no botão abaixo e entrará em contato conosco via WhatsApp.</p>
+				<a title="Entrar em contato" target="_blank" color="var(--white)" href="https://api.whatsapp.com/send?phone=5515996026744&amp;text=Olá,%20estou%20enviando%20esta%20mensagem%20através%20do%20seu%20site.%20Estou%20com dúvidas sobre como instalar os aplicativos, poderia me ajudar?" class="styles__OutlinedButtonTag-sc-15xvzkm-0 kFhhAQ">Entrar em contato</a>
+           		<br><br><br>
+				<p class="text-tags__Paragraph-sc-1f0yu1t-0 lbLwwM">Já tem seu app instalado, volte aos nossos planos e scolha o melhor, clicando abaixo.</p>
+				<a title="Voltar aos Planos" href="#planos"  color="var(--white)" class="styles__OutlinedButtonTag-sc-15xvzkm-0 kFhhAQ"> Planos ▲ </a>
+		   </div>
+          </div>
+        </div>
+        <footer class="styles__Container-sc-1w3nvkc-0 jAikhS">
+
+		<span class="styles__Copyright-sc-1w3nvkc-1 exNKxV">© InfoLango Recargas <!-- -->2022<!-- --> - Todos os direitos reservados</span>
+
+<div class="scroll-top-wrapper" >
+
+ <img src="images/up.png" alt="topo">
+
+</div>
+	</footer>
+    </div>
+	<script src="js/top/jquery.min.js"></script>
+    <script src="js/top/jquery.easing.min.js"></script>
+    <script src="js/top/bootstrap.min.js"></script>
+    <script src="js/top/custom.js"></script>
+    <link rel="stylesheet" href="/css/4.7.0/font-awesome.min.css">
+	
+    <script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"25qvePMhU-LxzbEO6s0Hi","runtimeConfig":{},"nextExport":true,"autoExport":true,"isFallback":false}</script>
+    <script nomodule="" src="/js/polyfills.js"></script>
+    <script src="/js/main.js" async=""></script>
+    <script src="/js/webpack.js" async=""></script>
+    <script src="/js/framework.js" async=""></script>
+    <script src="/js/commons.js" async=""></script>
+    <script src="/js/7124.js" async=""></script>
+    <script src="/js/app-02.js" async=""></script>
+    <script src="/js/index.js" async=""></script>
+    <script src="/js/buildManifest.js" async=""></script>
+    <script src="/js/ssgManifest.js" async=""></script>
+
+
+</body>
+
+</html>
